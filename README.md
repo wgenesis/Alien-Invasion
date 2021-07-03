@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-![Alien-Invasion](.\images\Alien-Invasion.png)
+![Alien-Invasion](.\image\Alien-Invasion.png)
 
 
 
