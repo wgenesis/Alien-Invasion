@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-![Alien-Invasion](.\image\Alien-Invasion.png)
+![Alien-Invasion](https://github.com/WeiHYDavid/Alien-Invasion/blob/main/image/Alien-Invasion.png)
 
 
 
